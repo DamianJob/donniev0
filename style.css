@@ -473,3 +473,35 @@ footer {
     grid-template-columns: 1fr 1fr;
   }
 }
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: Red;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.social-link2 {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: green;
+  font-weight: bold;
+  margin: 12px;
+}
+
+.icon2 {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
